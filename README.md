@@ -16,6 +16,7 @@
 - Now we have seen Image2Image task [here](https://levelup.gitconnected.com/image-data-augmentation-techniques-d9323f22153f) and we saw all the generative models to do this i.e. Autoencoders / GAN / DDPMs / DDIMs but here during inference you won't have a input image you will only have an input text hence while training you will have to use a model which convert noise to image for the image2image task and hence we can only use models like GANs and Diffusion for Text2Image Task !!
 - Inpainting
 - Outpainting
+- Some famous Models are : Midjourney, Stable Diffusion, and Dall-E
 
 ### 2. Text2Speech Task (also called Speech Synthesis)
 - Think of Speech2Speech Task and then condition it on texts, same as logic explained above we can here also only use models like GANs and Diffusion
