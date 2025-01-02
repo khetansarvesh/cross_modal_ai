@@ -5,14 +5,15 @@ Think of Text2Text task eg Machine Translation and now instead of conditioning i
 3. Video2Text i.e. Video Captioning
 
 
-# ****** Text2Image (TTI) Task ******
-Think of Image2Image Task and then condition it on Text
+# ****** Text2X Tasks ******
+
+1. Text2Image (TTI) Task
+- Think of Image2Image Task and then condition it on Text
 - Inpainting
 - Outpainting
 
+2. Text2Video Task
+- Think of Video2Video Task and then condition it on texts
 
-# ****** Text2Video Task ******
-Think of Video2Video Task and then condition it on texts
-
-# ****** Text2Speech Task ******
-Think of Speech2Speech Task and then condition it on texts
+3. Text2Speech Tas
+- Think of Speech2Speech Task and then condition it on texts
