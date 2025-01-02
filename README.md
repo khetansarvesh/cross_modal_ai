@@ -12,7 +12,7 @@ Think of Text2Text task eg Machine Translation and now instead of conditioning i
 - Inpainting
 - Outpainting
 
-2.Text2Speech Task
+2. Text2Speech Task
 - Think of Speech2Speech Task and then condition it on texts
   
 3. Text2Video Task
