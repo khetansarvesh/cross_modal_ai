@@ -25,3 +25,10 @@
   
 ### 3. Text2Video Task
 - Think of Video2Video Task and then condition it on texts, same as logic explained above we can here also only use models like GANs and Diffusion
+- You can learn a general framework [here](https://www.youtube.com/watch?v=0K56LA821ys)
+- Some prominent models in this space are :
+  1. [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+  2. [Lumiere By Google](https://www.youtube.com/watch?v=Pl8BET_K1mc)
+  3. [Make A Video By Meta](https://makeavideo.studio/) => Here is a [Blog](https://medium.com/@lakshmibayanagari/metas-make-a-video-breakdown-8d8618c7b8e8) explaining this paper
+  4. SORA by Open AI
+  5. Veo2 by Google
