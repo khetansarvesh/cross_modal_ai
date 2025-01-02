@@ -23,7 +23,6 @@
 - Think of Speech2Speech Task and then condition it on texts, same as logic explained above we can here also only use models like GANs and Diffusion
 - [AudioGen by Facebook](https://arxiv.org/pdf/2209.15352.pdf)
 - [MusicGen by Facebook](https://arxiv.org/pdf/2306.05284.pdf)
-- [MusicGen Playground on HuggingFace](https://huggingface.co/spaces/facebook/MusicGen)
   
 ### 3. Text2Video Task
 - Think of Video2Video Task and then condition it on texts, same as logic explained above we can here also only use models like GANs and Diffusion
