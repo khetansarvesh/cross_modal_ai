@@ -7,6 +7,8 @@ Think of Text2Text task eg Machine Translation and now instead of conditioning i
 
 # ****** Text2Image (TTI) Task ******
 Think of Image2Image Task and then condition it on Text
+- Inpainting
+- Outpainting
 
 
 # ****** Text2Video Task ******
